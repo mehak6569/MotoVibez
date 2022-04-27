@@ -1,2 +1,2 @@
-# MotoVibez
-E-commerce Website
+## E-Commerce Website Design Using HTML CSS and JS
+
